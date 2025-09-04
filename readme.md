@@ -21,11 +21,11 @@ For more information on the dataset, click [here](https://www.kaggle.com/dataset
 - How often does the home team actually win the game?
 - Pick-em games, games without a line, and neutral site games were filtered out.
 
-Queries: [1.0_home_team_favorite](Scripts\1.0_home_team_favorite.sql) and [1.1_home_team_wins_game](Scripts\1.1_home_team_wins_game.sql)
+Queries: [1.0_home_team_favorite](Scripts/1.0_home_team_favorite.sql) and [1.1_home_team_wins_game](Scripts/1.1_home_team_wins_game.sql)
 
 **Visualization:**
 
-![Home Team Favorite](images\1.0_home_team_favorite.png)
+![Home Team Favorite](images/1.0_home_team_favorite.png)
 
 **Findings and Insights**
 
