@@ -41,19 +41,19 @@ Queries: [1.0_home_team_favorite](Scripts/1.0_home_team_favorite.sql) and [1.1_h
 
 The first query takes data from all of the games in the dataset (excluding games without lines and pick'em games) and calculates how often the spread favorite ended up winning the game.
 
-Query: [2.0_spread_vs_game_winner](Scripts\2.0_spread_vs_game_winner.sql)
+Query: [2.0_spread_vs_game_winner](Scripts/2.0_spread_vs_game_winner.sql)
 
 **Visualization:**
 
-![Spread vs. Game Winner](images\2.0_spread_vs_game_winner.png)
+![Spread vs. Game Winner](images/2.0_spread_vs_game_winner.png)
 
 The second query also calculates how often the spread favorite won the game, but on a week-by-week basis (i.e. all week 1 games from every year in the dataset, all week 2 games from every year in the dataset, etc.).  
 
-Query: [2.1_spread_vs_game_winner_week_be_week](images\2.1_spread_vs_game_winner_week_by_week.png)
+Query: [2.1_spread_vs_game_winner_week_be_week](images/2.1_spread_vs_game_winner_week_by_week.png)
 
 **Visualization:**
 
-![Spread vs. Game Winner, week by week](images\2.1_spread_vs_game_winner_week_by_week.png)
+![Spread vs. Game Winner, week by week](images/2.1_spread_vs_game_winner_week_by_week.png)
 
 **Findings and Insights**
 
@@ -69,19 +69,19 @@ Query: [2.1_spread_vs_game_winner_week_be_week](images\2.1_spread_vs_game_winner
 
 This first query explores how often the spread favorite covers the spread.
 
-Query: [3.0_spread_fav_covers](Scripts\3.0_spread_fav_covers.sql)
+Query: [3.0_spread_fav_covers](Scripts/3.0_spread_fav_covers.sql)
 
 **Visualization:**
 
-![Spread favorite covering](images\3.0_spread_fav_covers.png)
+![Spread favorite covering](images/3.0_spread_fav_covers.png)
 
 The second query looks at how often the favorite covers the spread on a week-by-week basis.
 
-Query: [3.1_cover_spread_week_by_week](Scripts\3.1_cover_spread_week_by_week.sql)
+Query: [3.1_cover_spread_week_by_week](Scripts/3.1_cover_spread_week_by_week.sql)
 
 **Visualization:**
 
-![Cover spread, week by week](images\3.1_cover_spread_week_by_week.png)
+![Cover spread, week by week](images/3.1_cover_spread_week_by_week.png)
 
 **Findings and Insights**
 
@@ -97,15 +97,15 @@ Query: [3.1_cover_spread_week_by_week](Scripts\3.1_cover_spread_week_by_week.sql
 
 The first query looks at how often the game point total went over or under the over / under line.
 
-Query: [4.0_overunder_overall](Scripts\4.0_overunder_overall.sql)
+Query: [4.0_overunder_overall](Scripts/4.0_overunder_overall.sql)
 
-![Over Under, overall](images\4.0_overunder_overall.png)
+![Over Under, overall](images/4.0_overunder_overall.png)
 
 The second query looks at how often the game point total was over the over / under line on a week-by-week basis.
 
-Query: [4.1_overunder_week_by_week](Scripts\4.1_overunder_week_by_week.sql)
+Query: [4.1_overunder_week_by_week](Scripts/4.1_overunder_week_by_week.sql)
 
-![Over Under, week by week](images\4.1_overunder_week_by_week.png)
+![Over Under, week by week](images/4.1_overunder_week_by_week.png)
 
 **Findings and Insights**
 
