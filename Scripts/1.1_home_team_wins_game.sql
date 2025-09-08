@@ -1,4 +1,7 @@
--- How often does the home team win the game?
+/*
+How often does the home team win the game?
+Filtered out pick-em games, games with no lines, and neutral site games
+*/
 
 WITH home_or_visitor_winner AS (
 	SELECT

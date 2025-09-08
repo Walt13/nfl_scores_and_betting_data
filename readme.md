@@ -8,6 +8,8 @@ For more information on the dataset, click [here](https://www.kaggle.com/dataset
 
 ### Questions
 
+For this analysis, we will be looking at some common questions that bettors may have about NFL games.
+
 1. How often is the home team the favorite, and how often does the home team win the game?
 2. How often does the spread favorite win the game? Also, does this change from week to week?
 3. How often does the spread favorite cover? Does this change from week to week?
@@ -31,7 +33,7 @@ Queries: [1.0_home_team_favorite](Scripts/1.0_home_team_favorite.sql) and [1.1_h
 
 - The home team was favored to win the game 67% of the time.
 - However, the home team ended up winning only 58% of the time.
-- While being the home team does have it's advantages, such as having the crowd on your side and not having to travel, it doesn't seem to be as much of an advantage as bettors think it is.
+- While being the home team does have it's advantages, such as having the crowd on your side and not having to travel, it doesn't seem to be as much of an advantage as the lines make it out to be.
 
 ### 2. Spread favorite winning the game
 
